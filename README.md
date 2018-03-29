@@ -29,9 +29,9 @@ The `scale_<type>_manual()` functions will allow customization of the palette fo
 
 View the different palettes with `print.palette(aesthetic("name"))`.
 
-# Credits
+# Credit
 
-The color palettes were taken from https://github.com/mackenziedg/vapeplot, and the skeleton for the R package was taken from https://github.com/karthik/wesanderson.
+The color palettes were taken from https://github.com/dantaki/vapeplot, and the skeleton for the R package was taken from https://github.com/karthik/wesanderson.
 
 # License
 
