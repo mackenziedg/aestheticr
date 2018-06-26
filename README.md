@@ -8,7 +8,7 @@ If so, this is the package for you!
 
 # Installation
 
-`devtools::install_github("mackenziedg/aesthetic")`
+`devtools::install_github("mackenziedg/aestheticr")`
 
 # Usage
 
