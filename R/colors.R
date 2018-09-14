@@ -16,7 +16,7 @@ palettes <- list(
 
 #' A vaporwave palette generator
 #'
-#' The color palettes are taken from https://github.com/mackenziedg/vapeplot
+#' The color palettes are taken from https://github.com/dantaki/vapeplot
 #'
 #' @param n Number of colors desired.
 #'   If omitted, uses all colours.
